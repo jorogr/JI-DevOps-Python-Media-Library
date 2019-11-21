@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Songs For Coding",
+        "repeat": true,
+        "shuffle": true
+    },
+    {
+        "id": 0,
+        "artist": "Metallica",
+        "title": "Enter Sandman",
+        "album": "None",
+        "song_length": "4:34"
+    },
+    {
+        "id": 1,
+        "artist": "Manowar",
+        "title": "Odin",
+        "album": "The Sons of Odin",
+        "song_length": "1:30:44"
+    },
+    {
+        "id": 2,
+        "artist": "Metallica",
+        "title": "Master of Puppets",
+        "album": "Master of Puppets",
+        "song_length": "3:23"
+    },
+    {
+        "id": 3,
+        "artist": "Metallica",
+        "title": "Enter Sandman",
+        "album": "None",
+        "song_length": "4:34"
+    },
+    {
+        "id": 3,
+        "artist": "Manowar",
+        "title": "Odin",
+        "album": "The Sons of Odin",
+        "song_length": "1:30:44"
+    }
+]
